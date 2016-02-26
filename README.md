@@ -6,6 +6,8 @@ ESP
 
 All code is MIT licensed.
 
+Written by lots of people, including Ben Zijlstra and Theo Kleijn
+
 ### What is this repository for? ###
 
 * Quick summary
